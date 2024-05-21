@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.fiap.com.br.sorteio.model.NumeroSorteio;
 
 import io.swagger.v3.oas.annotations.Operation;
-import jakarta.validation.constraints.Min;
 
 @RestController
 @RequestMapping("/dado")
